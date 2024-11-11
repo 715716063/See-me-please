@@ -1,0 +1,8 @@
+{
+    "SAVE_DIRECTORY": "Recordings",
+    "FFMPEG_PATH": "ffmpeg/bin/ffmpeg.exe",
+    "ICON_PATH": "ICON.ico",
+    "AWS_ACCESS_KEY_ID": "lease enter the AWS secret key id",
+    "AWS_SECRET_ACCESS_KEY": "Please enter the AWS secret key",
+    "S3_BUCKET_NAME": "Please enter the s3 bucket name to save the recording file"
+}
